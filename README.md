@@ -10,4 +10,10 @@ You can communicate with an application using below
 
 We have a shell Script written retrieve information about users from GitHub using GitHub Token, Username and REST API expression
 
-All the commands are written in shell and executed in Ubuntu Server  
+All the commands are written in shell and executed in Ubuntu Server 
+
+1. Clone the repository
+
+```
+https://github.com/Pavan-1997/GitHub_Organization_API_Shell.git
+```
