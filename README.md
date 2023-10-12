@@ -46,7 +46,7 @@ chmod 777 cmds.sh
 5. Now execute the file by passing the parameters for Organization Name and Repository Name
 
 ```
-./list-users.sh <Organization-Name> <Repository-Name>
+./cmds.sh <Organization-Name> <Repository-Name>
 ```
 
 ![image](https://github.com/Pavan-1997/GitHub_Organization_API_Shell/assets/32020205/caf023dd-a1b8-422e-bb38-e0a83cec4c0f)
