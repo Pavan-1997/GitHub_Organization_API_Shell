@@ -27,6 +27,13 @@ export token="Token"
 ```
 
 
+3. Install JQ to extract the data from JSON
+
+```
+sudo apy install jq -y
+```
+
+6.
 7. Give full permission to the cmds.sh file
 
 ```
@@ -34,4 +41,7 @@ chmod 777 cmds.sh
 ```
 
 
-3. Now execute the file by passing the parametes f
+4. Now execute the file by passing the parameters for Organization Name and Repository Name
+
+```
+
