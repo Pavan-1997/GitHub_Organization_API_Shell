@@ -15,5 +15,13 @@ All the commands are written in shell and executed in Ubuntu Server
 1. Clone the repository
 
 ```
-https://github.com/Pavan-1997/GitHub_Organization_API_Shell.git
+git clone https://github.com/Pavan-1997/GitHub_Organization_API_Shell.git
 ```
+
+
+2. Give full permission to the cmds.sh file
+
+```
+chmod 777 cmds.sh
+```
+
