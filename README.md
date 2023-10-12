@@ -10,6 +10,8 @@ You can communicate with an application using below
 
 We have a shell Script written retrieve information about users from GitHub using GitHub Token, Username and REST API expression
 
+![image](https://github.com/Pavan-1997/GitHub_Organization_API_Shell/assets/32020205/79d113c0-64e8-4fed-ab9d-4c28b8c0d144)
+
 All the commands are written in shell and executed in Ubuntu Server 
 
 1. Clone the repository
@@ -45,4 +47,7 @@ chmod 777 cmds.sh
 
 ```
 ./list-users.sh <Organization-Name> <Repository-Name>
-```  
+```
+
+![image](https://github.com/Pavan-1997/GitHub_Organization_API_Shell/assets/32020205/caf023dd-a1b8-422e-bb38-e0a83cec4c0f)
+
