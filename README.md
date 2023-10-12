@@ -51,3 +51,10 @@ chmod 777 cmds.sh
 
 ![image](https://github.com/Pavan-1997/GitHub_Organization_API_Shell/assets/32020205/caf023dd-a1b8-422e-bb38-e0a83cec4c0f)
 
+
+6. Made use of a Helper function which can prompt with values as below if any of the parameters is not passed during the script execution
+
+![image](https://github.com/Pavan-1997/GitHub_Organization_API_Shell/assets/32020205/0e1d80b1-5da0-43af-8553-f9298a70c1cd)
+
+
+
