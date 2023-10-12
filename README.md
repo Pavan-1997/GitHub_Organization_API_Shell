@@ -33,15 +33,16 @@ export token="Token"
 sudo apy install jq -y
 ```
 
-6.
-7. Give full permission to the cmds.sh file
+
+4. Give full permission to the cmds.sh file
 
 ```
 chmod 777 cmds.sh
 ```
 
 
-4. Now execute the file by passing the parameters for Organization Name and Repository Name
+5. Now execute the file by passing the parameters for Organization Name and Repository Name
 
 ```
-
+./list-users.sh <Organization-Name> <Repository-Name>
+```  
