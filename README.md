@@ -19,9 +19,19 @@ git clone https://github.com/Pavan-1997/GitHub_Organization_API_Shell.git
 ```
 
 
-2. Give full permission to the cmds.sh file
+2. Pass the enviroment variables for GitHub Username and GitHub Token which is later accessed by the script during execution
+
+```
+export username="User-Name"
+export token="Token"
+```
+
+
+7. Give full permission to the cmds.sh file
 
 ```
 chmod 777 cmds.sh
 ```
 
+
+3. Now execute the file by passing the parametes f
