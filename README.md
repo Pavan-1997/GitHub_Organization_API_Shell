@@ -1,5 +1,5 @@
-# GitHub_Organization_API_Shell
-
+# GitHub Organization using API writtten in Shell Scripting 
+ 
 You can communicate with an application using below
 
 - CLI
